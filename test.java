@@ -7,6 +7,7 @@ public class test {
         }else{
             System.out.println(password + " : This password is not valid");
         }
+        System.out.println("Added one more line to check jenkins pipeline");
     }
 
     public static Boolean isValidPassword( String password ) {
