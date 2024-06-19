@@ -1,5 +1,3 @@
-package com.example.jenkins.controller;
-
 public class test {
     public static void main(String[] args) {
         String password = "Pass#1%!";
